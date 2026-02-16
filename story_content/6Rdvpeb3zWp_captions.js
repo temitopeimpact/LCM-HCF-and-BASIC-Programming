@@ -1,0 +1,1 @@
+window.globalLoadJsAsset('story_content/6Rdvpeb3zWp_captions.js', {"captions":[{"langCode":"en-US","data":"WEBVTT%0D%0A%0D%0ANOTE%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.110.36211.0%0D%0A%0D%0A00:00:00.075%20--%3E%2000:00:03.176%0D%0AIntroduction%20to%20Mathematics%20and%20Programming%0D%0A%0D%0A"}]})
